@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnWidth="90dp"
+        android:numColumns="3"
+        android:verticalSpacing="60dp"
+        android:horizontalSpacing="60dp"
+
+        android:gravity="center"
+        ></GridView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="CLICKS"
+                android:id="@+id/textView2"
+                android:layout_gravity="left"
+                android:layout_marginLeft="20dp"
+                android:textSize="40dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="0"
+                android:id="@+id/textView3"
+                android:layout_gravity="right"
+                android:textSize="40dp"
+                android:layout_marginLeft="200dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linear3">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt"
+                android:text="BEST"
+                android:layout_gravity="left"
+                android:layout_marginLeft="20dp"
+                android:textSize="40dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:id="@+id/txt1"
+
+                android:layout_gravity="right"
+                android:textSize="40dp"
+                android:layout_marginLeft="235dp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>

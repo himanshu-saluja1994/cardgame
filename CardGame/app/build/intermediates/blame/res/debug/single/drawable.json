@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/threeh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/threeh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/sevend.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/sevend.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/sevens.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/sevens.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/ah.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/ah.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/eights.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/eights.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/ninec.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/ninec.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/kd.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/kd.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/qs.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/qs.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/eightc.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/eightc.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/nineh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/nineh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/fives.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/fives.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/qd.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/qd.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/sixh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/sixh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/sevenh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/sevenh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/threes.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/threes.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/fivec.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/fivec.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/fourd.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/fourd.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/jh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/jh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/jc.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/jc.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/sevenc.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/sevenc.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/as.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/as.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/fours.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/fours.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/tenh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/tenh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/twoc.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/twoc.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/qc.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/qc.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/fourc.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/fourc.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/sixc.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/sixc.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/eighth.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/eighth.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/kh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/kh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/sixs.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/sixs.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/threec.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/threec.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/fiveh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/fiveh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/tend.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/tend.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/twos.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/twos.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/twoh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/twoh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/ks.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/ks.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/fived.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/fived.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/threed.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/threed.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/tenc.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/tenc.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/eight8.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/eight8.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/kc.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/kc.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/fourh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/fourh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/qh.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/qh.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/nined.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/nined.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/home_screen.png",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/home_screen.png"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/tens.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/tens.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/rsz_card_back.png",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/rsz_card_back.png"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/ad.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/ad.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/jd.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/jd.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/js.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/js.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/twod.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/twod.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/nines.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/nines.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/sixd.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/sixd.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/ac.jpg",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/src/main/res/drawable/ac.jpg"
+    },
+    {
+        "merged": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/practo/AndroidStudioProjects/CardGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    }
+]
